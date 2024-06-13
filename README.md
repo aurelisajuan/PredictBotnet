@@ -1,5 +1,7 @@
 # PredictBotnet
-PredictBotnet is a project aimed at developing a machine learning model to analyze network traffic patterns and predict potential cyber attacks, specifically botnets. This project leverages existing datasets containing historical network traffic and attack logs to train and validate the model, helping in early detection and prevention of cyber threats.
+PredictBotnet is a project aimed at analyzing network traffic patterns to predict potential cyber attacks, specifically botnets. This project leverages existing datasets containing historical network traffic and attack logs to identify patterns and anomalies associated with cyber threats, helping in early detection and prevention. We use data science techniques to model and train the datasets, ensuring accurate and efficient prediction of botnet attacks.
+
+
 
 ## Table of Contents
 
