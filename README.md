@@ -98,19 +98,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Credits to the authors of the datasets used in this project and the community contributors on Kaggle and GitHub who provided valuable insights and code examples.
 
-### Presentation PDF
+### Presentation
 
 For a detailed walkthrough of our project, refer to our presentation:
-
-- PredictBotnet Presentation PDF
-
-#### Presentation Video
+- [View PredictBotnet Presentation PDF](https://www.canva.com/design/DAGJYnUY8kI/qYSKUti5MHV20biZoQgkng/edit?utm_content=DAGJYnUY8kI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Watch our detailed presentation video here:
+- [View PredictBotnet Presentation Video] (Placeholder link for video)
 
-- Placeholder link for video
-
-PredictBotnet Presentation Video
 Feel free to contact us with any questions or feedback:
 
 - Hong Le: hongle622@gmail.com
