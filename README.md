@@ -96,7 +96,7 @@ Watch our detailed presentation video here:
 PredictBotnet Presentation Video
 Feel free to contact us with any questions or feedback:
 
-- Aurelisa Sindhunirmala: aurelisa.sindhu@gmail.com
 - Hong Le: hongle622@gmail.com
+- Aurelisa Sindhunirmala: aurelisa.sindhu@gmail.com
 
 
