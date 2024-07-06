@@ -1,7 +1,6 @@
 # PredictBotnet
+
 PredictBotnet is a project aimed at analyzing network traffic patterns to predict potential cyber-attacks, specifically botnets. This project leverages existing datasets containing historical network traffic and attack logs to identify patterns and anomalies associated with cyber threats, helping in early detection and prevention. We use data science techniques to model and train the datasets, ensuring accurate and efficient prediction of botnet attacks.
-
-
 
 ## Table of Contents
 
@@ -44,11 +43,26 @@ git clone https://github.com/aurelisajuan/PredictBotnet.git
 cd PredictBotnet
 ```
 
-### Installed Required Libraries 
+### Installed Required Libraries
+
 ```bash
+pip install -r requirements.txt
 ```
 
-### Model Development 
+### Data Preparation & Exploratory Data Analysis
+
+Data preparation involves loading, cleaning, and transforming data to be suitable for analysis:
+
+- 1. **Data Loading and Cleaning**: Load the data from the CSV file, handle missing values, and correct any inconsistencies in the data format.
+- 2. **Feature Engineering**: Implement one-hot encoding for categorical data and normalize continuous features to enhance model performance.
+
+Perform exploratory data analysis to understand the underlying patterns and distributions in the data, including:
+
+- Statistical summaries
+- Correlation analysis
+- Visualizations of data distributions and relationships
+
+### Model Development
 
 Develop the model using the following steps:
 
@@ -64,7 +78,7 @@ Evaluate the model's performance using various metrics:
 - Confusion Matrix
 - ROC Curves
 
-### Visualization 
+### Visualization
 
 Visualize the results and insights from the model:
 
@@ -72,11 +86,11 @@ Visualize the results and insights from the model:
 - Cluster visualizations
 - Performance metrics visualizations
 
-### Contributing 
+### Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your proposed changes.
 
-### License 
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
@@ -85,18 +99,19 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Credits to the authors of the datasets used in this project and the community contributors on Kaggle and GitHub who provided valuable insights and code examples.
 
 ### Presentation PDF
+
 For a detailed walkthrough of our project, refer to our presentation:
 
 - PredictBotnet Presentation PDF
 
-#### Presentation Video 
+#### Presentation Video
+
 Watch our detailed presentation video here:
-  - Placeholder link for video
+
+- Placeholder link for video
 
 PredictBotnet Presentation Video
 Feel free to contact us with any questions or feedback:
 
 - Hong Le: hongle622@gmail.com
 - Aurelisa Sindhunirmala: aurelisa.sindhu@gmail.com
-
-
