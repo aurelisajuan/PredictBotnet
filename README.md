@@ -104,7 +104,7 @@ For a detailed walkthrough of our project, refer to our presentation:
 - [View PredictBotnet Presentation PDF](https://www.canva.com/design/DAGJYnUY8kI/qYSKUti5MHV20biZoQgkng/edit?utm_content=DAGJYnUY8kI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Watch our detailed presentation video here:
-- [View PredictBotnet Presentation Video] (Placeholder link for video)
+- [View PredictBotnet Presentation Video](https://www.canva.com/design/DAGJYnUY8kI/qYSKUti5MHV20biZoQgkng/edit?utm_content=DAGJYnUY8kI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 Feel free to contact us with any questions or feedback:
 
